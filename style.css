@@ -1,0 +1,15 @@
+a[title] {
+    color: red; 
+}
+a[href="./hello.html"] {
+    font-weight: bold;
+}
+a[href^="#"] {
+    color: black;
+}
+a[href$="le"] {
+    font-style: italic;
+}
+a[href*="google"] {
+    font-size: 20px;
+}
